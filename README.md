@@ -59,6 +59,12 @@ This portfolio reflects my journey of hands-on learning, practical labs, and sel
 
 ## 📂 Projects
 
-- 📝 **CompTIA Network+ Study Repo**: Polished notes, diagrams & subnetting practice (for revision & sharing).    
+- 📝 **CompTIA Network+ Study Repo**: Polished notes, diagrams & subnetting practice (for revision & sharing).  
+- 🐧 **Linux Wargames (OverTheWire Bandit)**: Beginner-level practice planned to strengthen Linux command-line and file system skills.
+- 🕵️ **PicoCTF Challenges**: Planned beginner-to-intermediate CTF problems for hands-on problem-solving experience.  
 - 📡 **TryHackMe Labs (Ongoing)**: Practical exposure to real-world attack/defense scenarios.
+
+
+
+
 
