@@ -30,38 +30,49 @@ This portfolio reflects my journey of hands-on learning, practical labs, and sel
 
 
 ## Tools
-[Provide tools and break them down into categories Use ChatGPT to help create the link - Remove this afterwards]]
 
-### Network
+
+### Operating System
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <a href="https://overthewire.org/wargames/">
+  <img src="https://img.shields.io/badge/-Linux_OTW-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />
+  <a href="https://picoctf.org/">
+  <img src="https://img.shields.io/badge/-PicoCTF-CC2032?&style=for-the-badge&logo=ctf&logoColor=white" />
+</a>
+<div>
+
+
+### Learning Platforms
+<div>
+    <a href="https://tryhackme.com">
+  <img src="https://img.shields.io/badge/-TryHackMe-212C42?&style=for-the-badge&logo=tryhackme&logoColor=white" />
+</a>
+   
+  <img src="https://img.shields.io/badge/-Linux_OTW-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />
+</a>
+
+<a href="https://picoctf.org/">
+  <img src="https://img.shields.io/badge/-PicoCTF-CC2032?&style=for-the-badge&logo=ctf&logoColor=white" />
+</a>
+
 </div>
 
-### Endpoint
+### Scripting
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
+    <a href="https://realpython.com/">
+  <img src="https://img.shields.io/badge/-Python_RealPython-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
+</a>
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<a href="https://www.coursera.org/professional-certificates/google-cybersecurity">
+  <img src="https://img.shields.io/badge/-Google_Cybersecurity_Certificate-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
+</a>
+
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Documented CompTIA Network+ notes with diagrams and summaries — to be used as revision + open study repo.
+- Hands-on practice with Linux (OverTheWire Bandit) → navigating file systems, permissions, and scripting basics. 
