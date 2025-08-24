@@ -65,6 +65,6 @@ This portfolio reflects my journey of hands-on learning, practical labs, and sel
 - 📡 **TryHackMe Labs (Ongoing)**: Practical exposure to real-world attack/defense scenarios.
 
 
-
+✨ Always learning, always building. This space is my journey from beginner to pro. One repo, one lab, one challenge at a time.
 
 
