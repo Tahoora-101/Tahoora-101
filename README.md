@@ -22,7 +22,7 @@ This portfolio reflects my journey of hands-on learning, practical labs, and sel
 |-----------------------------------------------|------------------|
 | Networking (TCP/IP, DNS, DHCP, HTTP/S)       | Network+ notes & lab exercises |
 | Linux Basics (File systems, permissions, scripting) | OverTheWire Bandit, PicoCTF |
-| Python (Scripting & Automation basics)       | RealPython practice scripts |
+| Python (Scripting & Automation basics)       | Free Codecamp practice scripts |
 | Documentation & Note-taking                  | GitHub study repos & lab writeups |
 
 ---
@@ -40,8 +40,8 @@ This portfolio reflects my journey of hands-on learning, practical labs, and sel
 <a href="https://picoctf.org/">
   <img src="https://img.shields.io/badge/-PicoCTF-CC2032?&style=for-the-badge&logo=ctf&logoColor=white" />
 </a>
-<a href="https://realpython.com/">
-  <img src="https://img.shields.io/badge/-Python_RealPython-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
+<a href="https://www.freecodecamp.org/learn/scientific-computing-with-python/">
+  <img src="https://img.shields.io/badge/-Scientific_Computing_with_Python-freeCodeCamp?&style=for-the-badge&logo=python&logoColor=white" alt="freeCodeCamp Scientific Computing with Python Badge"/>
 </a>
 </div>
 
